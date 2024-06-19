@@ -1,10 +1,11 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=EFBEDE&text=Input%20text&fontColor=EFABD7&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=EFBEDE&text=wellcome%20&fontColor=EFABD7&fontSize=70)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzzissu&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-## Profile
+<!-- ## Profile -->
+
 
 ## Github Stat and Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzissu&show_icons=true&theme=radical)
