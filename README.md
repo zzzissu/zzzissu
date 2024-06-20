@@ -1,6 +1,6 @@
 <div align='center'>
 <p>
-  <a href="https://github.com/riversoso">
+  <a href="https://github.com/zzzissu">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=EFBEDE&text=zzzissu's%20Repository&fontColor=EFABD7&fontSize=50"/>
   </a>
 </p>
