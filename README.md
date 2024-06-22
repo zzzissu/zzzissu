@@ -45,8 +45,7 @@ Python <br/>
   [빅데이터 분석](https://github.com/zzzissu/bigdata-analysis2024) <br/>
 Java <br/>
   [스프링부트](https://github.com/zzzissu/basic-springboot-2024) <br/>
-
-  ![svg](https://raw.githubusercontent.com/zzzissu/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
+  
   
   <p>
       <img src="https://capsule-render.vercel.app/api?type=waving&color=EFBEDE&height=150&section=footer" />
