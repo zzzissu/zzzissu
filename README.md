@@ -1,7 +1,7 @@
 <div align='center'>
 <p>
   <a href="https://github.com/zzzissu">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=EFBEDE&text=zzzissu's%20Repository&fontColor=EFABD7&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=EFBEDE&text=zzzissu's%20Repository&fontColor=EFABD7&fontSize=50&section=header"/>
   </a>
 </p>
   
@@ -14,8 +14,8 @@
 ## Github Stat and Languages
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zzzissu)](https://solved.ac/zzzissu)<br/> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzissu&show_icons=true&theme=radical) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzissu)](https://github.com/anuraghazra/github-readme-stats) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzissu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzissu)](https://github.com/zzzissu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzissu)](https://github.com/zzzissu/github-readme-stats)
 
 ## Using Tools
   <p>
@@ -46,4 +46,9 @@ Python <br/>
 Java <br/>
   [스프링부트](https://github.com/zzzissu/basic-springboot-2024) <br/>
 
+  ![svg](https://raw.githubusercontent.com/zzzissu/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
+  
+  <p>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=EFBEDE&height=150&section=footer" />
+  </p>
 </div>
