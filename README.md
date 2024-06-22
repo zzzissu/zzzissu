@@ -8,14 +8,10 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzzissu&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
-<!-- ## Profile -->
-
-
 ## Github Stat and Languages
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zzzissu)](https://solved.ac/zzzissu)<br/> -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzissu&show_icons=true&theme=radical) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzissu)](https://github.com/zzzissu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzissu)](https://github.com/zzzissu/github-readme-stats)</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzissu)](https://github.com/zzzissu/github-readme-stats)
+
 
 ## Using Tools
   <p>
