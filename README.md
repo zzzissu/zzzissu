@@ -40,12 +40,13 @@
     </div>
 </div>
     <!-- <img height="25" src="" title=""/>  -->
-
+<!--
 ## 🪡Technique Table
 | 기술분류 | 명세 |
 |:---:|:---:|
 |Visual Studio Code|Python 개발, Spring Boot 개발|
 |Oracle 21C| Database 기본 학습|
+-->
 
 ## 📑Portfolio
  - 🏷️[빅데이터 분석](https://github.com/zzzissu/bigdata-analysis2024) <br/>
