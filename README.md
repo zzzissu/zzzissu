@@ -1,7 +1,7 @@
 <div align='center'>
   <p>
     <a href="https://github.com/zzzissu">
-      <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=FFD1FA&text=zzzissu's%20Repository&fontColor=FFE1FA&fontSize=50&section=header&stroke=FFFFFF"/>
+      <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=FCD9F3&text=zzzissu's%20Repository&fontColor=FFE1FA&fontSize=50&section=header&stroke=FFFFFF"/>
     </a>
   </p>
   
